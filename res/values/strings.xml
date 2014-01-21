@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ImSearch</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="et_search">search</string>
+    <string name="btn_search">Search</string>
+    <string name="title_activity_image_display">ImSearch</string>
+    <string name="title_activity_search_settings">ImSearch - Settings</string>
+    <string name="settings_header">Search Preferences</string>
+    <string name="settings_image_size">Image Size</string>
+    <string name="settings_color_filter">Color Filter</string>
+    <string name="settings_image_type">Image Type</string>
+    <string name="settings_site_filter">Site Filter</string>
+    <string name="settings_submit">Save</string>
+    <string name="sitefilter_prompt">Type site filter</string>
+    <string name="more_results">Show more images</string>
+
+
+</resources>
